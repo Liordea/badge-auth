@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "645996289423",
+    "project_id": "a-simple-flutter-arduino-test",
+    "storage_bucket": "a-simple-flutter-arduino-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645996289423:android:dfaca69e185b8c8d8dbffa",
+        "android_client_info": {
+          "package_name": "com.example.badge_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645996289423-7m3bg60f1ops5725df9u86m594qohdua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpmr9-2QyoubOcvaVtvdc_umYiyqVPW1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645996289423-7m3bg60f1ops5725df9u86m594qohdua.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "645996289423-4l3314fb7j8ovbg4qj3r6vo9ap7qepnt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.badgeAi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
